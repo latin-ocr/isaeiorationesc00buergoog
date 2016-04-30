@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./isaeiorationesc00buergoog_0008.png"; bbox 0 0 2626 4476; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 183 1485 1139 1601">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 183 1485 1139 1601">
+     <span class='ocr_line' id='line_1_1' title="bbox 183 1485 1139 1601; baseline 0.006 -6"><span class='ocrx_word' id='word_1_1' title='bbox 183 1487 587 1598; x_wconf 80' lang='lat' dir='ltr'><strong>HERMAN</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 588 1487 657 1596; x_wconf 88' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_3' title='bbox 661 1485 714 1595; x_wconf 88' lang='grc' dir='ltr'>Ο</span> <span class='ocrx_word' id='word_1_4' title='bbox 760 1485 1139 1601; x_wconf 75' lang='lat' dir='ltr'><strong>SAUPPIO.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 501 1794 818 1867">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 501 1794 818 1867">
+     <span class='ocr_line' id='line_1_2' title="bbox 501 1794 818 1867; baseline 0 -5"><span class='ocrx_word' id='word_1_5' title='bbox 501 1796 570 1864; x_wconf 83' lang='lat' dir='ltr'><strong>EUM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 586 1797 669 1867; x_wconf 83' lang='lat' dir='ltr'><strong>DIEM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 686 1794 818 1864; x_wconf 78' lang='lat' dir='ltr'>ACTURO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 262 2034 1057 2144">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 262 2034 1057 2144">
+     <span class='ocr_line' id='line_1_3' title="bbox 262 2034 1057 2144; baseline -0.001 -14"><span class='ocrx_word' id='word_1_8' title='bbox 262 2035 352 2144; x_wconf 79' lang='lat' dir='ltr'><strong>QUO</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 378 2038 499 2131; x_wconf 79' lang='lat' dir='ltr'><strong>ANTE</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 525 2034 878 2144; x_wconf 76' lang='lat' dir='ltr'><strong>QUINQUAGINTA</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 905 2034 1057 2129; x_wconf 76' lang='lat' dir='ltr'>ANNOS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 426 2281 886 2370">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 426 2281 886 2370">
+     <span class='ocr_line' id='line_1_4' title="bbox 426 2281 886 2370; baseline -0.004 0"><span class='ocrx_word' id='word_1_12' title='bbox 426 2302 573 2370; x_wconf 66' lang='lat' dir='ltr'>noenum</span> <span class='ocrx_word' id='word_1_13' title='bbox 594 2281 702 2370; x_wconf 67' lang='lat' dir='ltr'>MU&#39;Nus</span> <span class='ocrx_word' id='word_1_14' title='bbox 725 2301 886 2369; x_wconf 76' lang='lat' dir='ltr'><strong>SUSOEPIT.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1318 4476">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1318 4476">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1318 4476; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1318 4476; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
